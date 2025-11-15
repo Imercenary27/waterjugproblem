@@ -1,0 +1,14 @@
+Dockerfile
+dockerfiles
+docker-compose*
+.dockerignore
+node_modules
+npm-debug.log
+dist
+nginx
+microServices.*
+.vscode
+.scannerwork
+productionVolumes
+mongoexports
+
